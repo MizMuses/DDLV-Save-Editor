@@ -3,6 +3,8 @@ Disney Dreamlight Save Editor and Tool
 
 DDLV Save Editor (SAFE BASE) — First Official Release
 
+Find us here: https://discord.gg/9n7DxVH2x7
+
 A friend-friendly Disney Dreamlight Valley Save Editor built in Python + Tkinter with a strict plugin system and a safety-first approach. This release is our SAFE BASE: if future updates break something, we roll back to this version.
 
 Highlights
