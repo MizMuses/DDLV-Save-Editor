@@ -31,6 +31,8 @@ Weather is safe: Snow is disabled to prevent the known #102 init crash.
 
 Save sanitizer prevents common “game won’t start” save corruption patterns.
 
+DO NOT SKIP QUESTS DURING REALM/UNLOCK QUESTS!
+
 Download
 
 Get the latest build from Releases on GitHub (Assets).
